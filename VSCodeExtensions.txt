@@ -5,8 +5,10 @@ Debugger for Chrome
 Debugger for Firefox
 ESLint
 Git Blame
+HTML Snippets
 jsx
 Meteor
+Meteor snippets
 npm Intellisense
 React Native Tools
 vscode-caniuse
