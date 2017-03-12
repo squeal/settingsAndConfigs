@@ -9,5 +9,6 @@ jsx
 Meteor
 npm Intellisense
 React Native Tools
+Settings Sync
 vscode-caniuse
 vscode-icons
