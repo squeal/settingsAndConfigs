@@ -1,0 +1,2 @@
+Color Theme: Dark+ (default dark)
+File Icon Theme: VSCode Icons
