@@ -1,0 +1,13 @@
+Babel ES6/ES7
+Class Autocomplete for HTML
+Cucumber (Gherkin) Syntax and Snippets
+Debugger for Chrome
+Debugger for Firefox
+ESLint
+Git Blame
+jsx
+Meteor
+npm Intellisense
+React Native Tools
+vscode-caniuse
+vscode-icons
